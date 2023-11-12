@@ -1,2 +1,5 @@
 # wiiu-image-share
-Recreation of the Wii U image sharing website.
+
+A recreation of the now defunct Wii U immage share site.
+
+🟨 was here.
